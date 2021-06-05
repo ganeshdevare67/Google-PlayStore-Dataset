@@ -1,2 +1,2 @@
-# Google_PlayStore_Assignment
+# Google_PlayStore_EDA
 ## Assigned by Board Infinity
